@@ -1,0 +1,14 @@
+.dice-imgs {
+    display: inline;
+    text-align: center;
+    
+}
+
+.dice-imgs li {
+    display: inline;
+    
+}
+
+.dice-imgs li img {
+    margin-top: 10px;
+}
